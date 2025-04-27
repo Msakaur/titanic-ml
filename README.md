@@ -1,1 +1,1 @@
-# titanic-ml
+# titanic_ml
